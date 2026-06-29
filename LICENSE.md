@@ -1,4 +1,4 @@
-# 
+# 原生 Canva 效果 Mac OS版 | 独家 Canva 效果 PC Windows版。集成 油漆桶 和 图层混合模式，跨平台性能最大化。
 
 
 
